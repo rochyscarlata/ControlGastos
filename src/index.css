@@ -2,9 +2,9 @@
   margin-bottom: 0!important;
 }
 body {
-  background: #000428;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #004e92, #000428);  
-  background: linear-gradient(to right, #004e92, #000428); 
+  background: rgb(180,58,105);  /* fallback for old browsers */
+  background: -webkit-linear-gradient(90deg, rgba(180,58,105,1) 0%, rgba(244,40,40,0.9332107843137255) 50%, rgba(252,69,149,1) 100%);  
+  background: linear-gradient(90deg, rgba(180,58,105,1) 0%, rgba(233,86,116,0.6587009803921569) 50%);
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -40,7 +40,7 @@ h1 {
 h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
-  color:#004e92;
+  color:#F9AAA2;
   margin-bottom:30px;
   font-size:3rem!important;
   text-align: center;
@@ -97,7 +97,7 @@ h2 {
   margin:0;
 }
 .gastos-realizados li p .gasto {
-  background-color: #004085;
+  background-color: #DB5344;
   padding: 1rem;
   color:white;
 }
